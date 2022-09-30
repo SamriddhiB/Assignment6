@@ -20,7 +20,7 @@ public class prac6_2 {
 		
 	}
 
-	// Starting counter
+	
 	//int a[]={1,2,5,6,3,2};  
     
     Random rd = new Random(); // creating Random object    
